@@ -50,3 +50,33 @@ WATE-TV,36.00369,-83.94269,http://www.wate.com,https://publicfiles.fcc.gov/api/m
 WJRT-TV,43.2303,-84.05886,http://www.abc12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21735/tv,"*:is(h4,h3) > a"
 KRGV-TV,26.10099,-97.83958,http://www.krgv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43328/tv,div.title
 WSET-TV,37.31514,-79.63476,http://www.wset.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73988/tv,div[class*=headline]
+WAAY-TV,34.73676,-86.53305,http://www.waaytv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57292/tv,h2.entry-title
+WBRZ-TV,30.29686,-91.19372,http://WWW.WBRZ.COM,https://publicfiles.fcc.gov/api/manager/download/entity/logo/38616/tv,div.title > a
+WMTW,43.84563,-70.76145,http://WMTW.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73288/tv,":is(div.feed-item-title,li[data-section=news])"
+KVIA-TV,31.80539,-106.4836,http://www.kvia.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49832/tv,h4 > a
+WBAY-TV,44.40971,-88.00177,http://www.wbay.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74417/tv,":is(h4,h3)"
+WOI-DT,41.80915,-93.61494,http://www.myabc5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8661/tv,h4.headline
+WTVG,41.68338,-83.41354,http://www.13abc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74150/tv,":is(h4,h3)"
+WOLO-TV,34.11626,-80.76397,http://www.abccolumbia.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60963/tv,h3
+KXLY-TV,47.92157,-117.11437,http://www.kxly.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61978/tv,div[class*=headline] a
+WSYR-TV,42.94507,-76.02381,http://www.localsyr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73113/tv,h4.headline
+KYTV,37.17394,-92.94131,http://www.ky3.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36003/tv,":is(h4,h3)"
+WCHS-TV,38.40787,-81.90347,http://www.wchstv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71280/tv,h4
+KRDO-TV,38.74588,-104.86086,http://www.krdo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/52579/tv,h4
+WHAM-TV,43.13534,-77.58389,http://www.13wham.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73371/tv,div.headline
+KPOB-TV,36.80117,-90.45178,http://www.wsiltv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73998/tv,a > span
+WATM-TV,40.5684,-78.44363,http://www.abc23.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/20287/tv,skip
+WGGB-TV,42.24176,-72.6487,http://www.wggb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25682/tv,h4
+KTBS-TV,32.68584,-93.93368,http://www.ktbs.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35652/tv,h4
+KHOG-TV,36.01591,-94.08354,http://www.4029tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60354/tv,":is(li[data-section=news],div.feed-list-title)"
+WPDE-TV,34.36738,-79.33005,http://www.carolinalive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17012/tv,":is(h4,h1)"
+WJHL-TV,36.43205,-82.13735,http://www.wjhl.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57826/tv,h4.headline
+WCJB-TV,29.53664,-82.39983,http://wcjb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16993/tv,":is(h4,h3)"
+KSBW,36.75635,-121.50244,http://www.ksbw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/19653/tv,":is(div.feed-item-title,li[data-section=news])"
+WCTI-TV,35.10433,-77.33635,http://www.wcti12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18334/tv,":is(h4,h2)"
+WTXL-TV,30.66853,-83.96933,http://www.wtxl.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41065/tv,":is(h2,h4,ul.tab-content-list a)"
+WQAD-TV,41.3124,-90.37963,http://www.wqad.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73319/tv,*.entry-title
+WAPT,32.2782,-90.29454,http://www.wapt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49712/tv,":is(li[data-section=news],div.feed-item-title)"
+KERO-TV,35.45385,-118.59453,http://turnto23.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40878/tv,h3
+WJBF,33.40575,-81.83347,http://www.wjbf.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/27140/tv,h4.headline
+KEYT-TV,34.52555,-119.95875,http://www.keyt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60637/tv,":is(div[class*=headline],h4)"
