@@ -1,3 +1,4 @@
+callsign,lat,lon,website,logo,selectors
 WABC-TV,40.7131,-74.01272,http://www.7online.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/1328/tv,div.headline
 KABC-TV,34.22695,-118.06701,http://abc7.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/282/tv,div.headline
 WLS-TV,41.87892,-87.63561,http://www.abc7chicago.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73226/tv,div.headline
@@ -80,3 +81,24 @@ WAPT,32.2782,-90.29454,http://www.wapt.com,https://publicfiles.fcc.gov/api/manag
 KERO-TV,35.45385,-118.59453,http://turnto23.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40878/tv,h3
 WJBF,33.40575,-81.83347,http://www.wjbf.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/27140/tv,h4.headline
 KEYT-TV,34.52555,-119.95875,http://www.keyt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60637/tv,":is(div[class*=headline],h4)"
+KIVI-TV,43.75572,-116.09928,http://www.kivitv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59255/tv,h3
+WMDT,38.50178,-75.73538,http://wmdt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16455/tv,h3
+WTVA,33.79456,-89.08784,http://www.wtva.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74148/tv,h2
+WEEK-TV,40.62945,-89.54804,http://www.week.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24801/tv,":is(h2,h3,h4)"
+KOLO-TV,39.31352,-119.88436,http://www.kolotv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63331/tv,":is(h4,h3)"
+WVNY,44.52589,-72.8154,http://www.myChamplainValley.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11259/tv,h4
+KBMT,30.00188,-94.09379,http://www.12newsnow.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/168236/tv,div[class*=headline]
+KMIZ,38.77475,-92.55638,http://www.abc17news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63164/tv,":is(ul.lines a, h4.headline)"
+WJET-TV,42.04033,-80.06894,http://yourerie.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65749/tv,":is(h4[class*=headline],ul.list a)"
+WDAY-TV,47.00775,-97.20092,http://www.wday.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22129/tv,a.rsswidget
+WDAZ-TV,48.13833,-97.99343,http://www.wdaz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22124/tv,skip
+KNOE-TV,32.19738,-92.07069,http://www.knoe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48975/tv,h3
+KESQ-TV,33.86613,-116.4364,http://www.kesq.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25577/tv,":is(h4,ul.list > li) > a"
+KTKA-TV,39.02611,-95.91721,http://www.ktka.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49397/tv,":is(h4[class*=headline],ul.list > li) > a"
+WTVO,42.28724,-89.17094,http://mystateline.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72945/tv,":is(h4[class*=headline],ul.list > li) > a"
+WTRF-TV,40.06146,-80.75203,http://www.wtrf.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6869/tv,":is(h4[class*=headline],ul.list > li) > a"
+WMOW,45.57302,-88.88261,http://www.waow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/81503/tv,":is(h4,h3)"
+KODE-TV,37.07701,-94.53773,http://fourstateshomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18283/tv,":is(h4[class*=headline],ul.list > li) > a"
+KCAU-TV,42.58638,-96.23252,http://www.kcautv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11265/tv,":is(h4[class*=headline],ul.list > li) > a"
+WAWV-TV,39.24254,-87.39141,http://mywabashvalley.com/wawv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65247/tv,":is(h4,ul.list > li) > a"
+KLKN,40.88307,-97.3056,http://www.klkntv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11264/tv,REACT
