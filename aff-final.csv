@@ -102,3 +102,17 @@ KODE-TV,37.07701,-94.53773,http://fourstateshomepage.com/,https://publicfiles.fc
 KCAU-TV,42.58638,-96.23252,http://www.kcautv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11265/tv,":is(h4[class*=headline],ul.list > li) > a"
 WAWV-TV,39.24254,-87.39141,http://mywabashvalley.com/wawv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65247/tv,":is(h4,ul.list > li) > a"
 KLKN,40.88307,-97.3056,http://www.klkntv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11264/tv,REACT
+KVII-TV,35.37505,-101.88269,http://www.abc7amarillo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40446/tv,":is(h4,h2)"
+KTEN,34.35954,-96.55972,http://www.kten.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35666/tv,h4
+KVEW,46.10319,-119.13362,http://www.kvewtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2495/tv,":is(h4[class*=headline],ul.list > li) > a"
+KECY-TV,33.05532,-114.82968,http://www.kyma.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51208/tv,":is(h4,ul.list > li) > a"
+WIVT,42.06091,-75.94297,http://www.newschannel34.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11260/tv,":is(h4,ul.list > li) > a"
+WBBJ-TV,35.63785,-88.69256,http://www.wbbjtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65204/tv,h3
+KSFY-TV,43.51859,-96.53504,http://www.ksfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48658/tv,":is(h4,h3)"
+WHSV-TV,38.60151,-78.63224,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4688/tv,":is(h4,h3)"
+WOAY-TV,37.95733,-81.15066,http://woay.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66804/tv,":is(h1,h3)"
+WOAY-TV,37.95733,-81.15066,http://woay.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66804/tv,skip
+WUTR,43.14535,-75.17572,http://cnyhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57837/tv,":is(h4[class*=headline],ul.list > li) > a"
+KIFI-TV,43.50102,-112.66277,http://www.localnews8.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66258/tv,":is(h4,ul.list > li) > a"
+KDRV,42.69151,-123.23006,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60736/tv,":is(h4,h2)"
+WVII-TV,44.75979,-68.56642,http://www.wvii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3667/tv,":is(.fox > ul, ul.latestnews) > li > a"
