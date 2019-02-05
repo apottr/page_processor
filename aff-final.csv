@@ -116,3 +116,25 @@ WUTR,43.14535,-75.17572,http://cnyhomepage.com/,https://publicfiles.fcc.gov/api/
 KIFI-TV,43.50102,-112.66277,http://www.localnews8.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66258/tv,":is(h4,ul.list > li) > a"
 KDRV,42.69151,-123.23006,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60736/tv,":is(h4,h2)"
 WVII-TV,44.75979,-68.56642,http://www.wvii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3667/tv,":is(.fox > ul, ul.latestnews) > li > a"
+WBKO,37.06365,-86.43527,http://www.wbko.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4692/tv,":is(h3,h4)"
+WMBB,30.35242,-85.39103,http://www.wmbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66398/tv,":is(h4.headline,ul.list > li) > a"
+KTMF,47.01937,-114.01372,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14675/tv,":is(h4,h3,h2)"
+KTXS-TV,32.41346,-100.10732,http://www.ktxs.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/308/tv,":is(h1,h2,h4)"
+KLAX-TV,31.56517,-92.55014,http://www.klax-tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/52907/tv,h3.entry-title
+WDAM-TV,31.4535,-89.28478,http://www.wdam.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21250/tv,":is(h2,h3,h4).promo-header"
+WDIO-DT,46.78744,-92.12269,http://www.wdio.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71338/tv,":is(h4,h6) > a"
+WOHL-CD,40.74755,-84.13189,http://www.hometownstations.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68549/tv,":is(h4,h3) > a"
+WDHN,31.24045,-85.31188,http://dothanfirst.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43846/tv,":is(h4.headline,ul.list > li) > a"
+KHQA-TV,39.97282,-91.33181,http://www.khqa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4690/tv,h4.media-heading > a
+KGNS-TV,27.67279,-99.66449,http://www.kgns.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10061/tv,":is(h4,h3)"
+KRCR-TV,40.60265,-122.65113,http://www.krcrtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8291/tv,":is(h4.media-heading,h2) > a"
+WTOK-TV,32.32737,-88.69116,http://www.wtok.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4686/tv,h3
+WABG-TV,33.37318,-90.54037,http://wabg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43203/tv,h4[class*=headline]
+KRHD-CD,30.75742,-96.46802,http://www.abc40.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68538/tv,skip
+WENY-TV,42.14202,-77.07747,http://www.weny.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71508/tv,h4.headline
+KOTA-TV,44.06665,-103.25074,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34347/tv,":is(h4,h3)"
+KHSD-TV,44.32498,-103.8377,http://www.blackhillsfox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34348/tv,":is(h4,h3)"
+WWTI,43.87979,-75.71936,http://www.informnny.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16747/tv,":is(h4.headline,ul.list > li) > a"
+KFBB-TV,47.53551,-111.2847,http://www.kfbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34412/tv,":is(h4,h3)[class*=headline] > a"
+KUPK,37.6503,-100.66877,http://www.kake.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65535/tv,h4 > a
+KDKF,42.09709,-121.63416,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60740/tv,":is(h4,h2) > a"
