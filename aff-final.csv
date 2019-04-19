@@ -138,3 +138,655 @@ WWTI,43.87979,-75.71936,http://www.informnny.com,https://publicfiles.fcc.gov/api
 KFBB-TV,47.53551,-111.2847,http://www.kfbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34412/tv,":is(h4,h3)[class*=headline] > a"
 KUPK,37.6503,-100.66877,http://www.kake.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65535/tv,h4 > a
 KDKF,42.09709,-121.63416,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60740/tv,":is(h4,h2) > a"
+WBKB-TV,44.70307,-83.52386,http://wbkb11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67048/tv,":is(*[class*=cp],*[class*=rp]) > a"
+KVIH-TV,34.19286,-103.2794,http://www.abc7amarillo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40450/tv,":is(h3,h4,h2)"
+KTWO-TV,42.74052,-106.36003,http://k2tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18286/tv,skip
+K09YI-D,44.24304,-105.53917,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/167560/tv,":is(h3,h4)"
+KSGW-TV,44.62219,-107.11646,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17680/tv,":is(h3,h4)"
+KWNB-TV,40.62556,-101.0296,http://www.nebraska.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21162/tv,.headline
+KWYB,46.00659,-112.44252,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14674/tv,.tnt-headline
+KLBY,39.2525,-101.35294,http://www.kake.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65523/tv,h4 > a
+KPRY-TV,44.05193,-100.08457,http://www.ksfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48660/tv,":is(h4,h3)"
+KJUD,58.30106,-134.44233,http://www.youralaskalink.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/13814/tv,":is(h4,h3)"
+WCBS-TV,40.7131,-74.01272,http://www.cbsnewyork.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9610/tv,.title-wrapper
+KCBS-TV,34.22723,-118.06757,http://losangeles.cbslocal.com/station/cbs-kcal/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9628/tv,skip
+WBBM-TV,41.87892,-87.63561,http://chicago.cbslocal.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9617/tv,.title-wrapper
+KYW-TV,40.04261,-75.24212,http://www.cbsphilly.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25453/tv,.title-wrapper
+KTVT,32.54347,-96.95917,http://dfw.cbslocal.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23422/tv,.title-wrapper
+KPIX-TV,37.75521,-122.45275,http://www.kpix.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25452/tv,.title-wrapper
+WGCL-TV,33.80733,-84.33937,http://www.cbs46.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72120/tv,":is(div[class*=headline],h4)"
+WBZ-TV,42.31038,-71.23672,http://cbsboston.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25456/tv,.title-wrapper
+KOVR,38.23992,-121.5019,http://cbssacramento.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56550/tv,.title-wrapper
+WWJ-TV,42.44809,-83.17298,http://detroit.cbslocal.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72123/tv,.title-wrapper
+WCCO-TV,45.06219,-93.13939,http://minnesota.cbslocal.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9629/tv,.title-wrapper
+KCCW-TV,46.93468,-94.45555,http://minnesota.cbslocal.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9640/tv,.title-wrapper
+KPHO-TV,33.33394,-112.06181,http://cbs5az.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41223/tv,.tnt-headline
+WTSP,27.81967,-82.26056,http://www.wtsp.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11290/tv,div[class*=headline]
+WFOR-TV,25.96898,-80.22199,http://miami.cbslocal.com/station/cbs4/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47902/tv,skip
+KCNC-TV,39.73082,-105.23221,http://www.cbsdenver.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47903/tv,.title-wrapper
+WKMG-TV,28.61,-81.05951,http://www.clickorlando.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71293/tv,h3
+WLFI-TV,40.38892,-86.61278,http://www.wlfi.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73204/tv,h2.entry-title
+WFSB,41.7751,-72.8051,http://www.wfsb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53115/tv,":is(div[class*=headline],h4)"
+KMYU,37.06331,-113.57468,http://www.kmyu.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35822/tv,.media-heading
+WJZ-TV,39.33483,-76.65052,http://www.cbsbaltimore.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25455/tv,.title-wrapper
+KDKA-TV,40.49396,-80.01894,http://kdka.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25454/tv,.title-wrapper
+KCTV,39.07056,-94.58273,http://www.kctv5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41230/tv,":is(div[class*=headline],h4)"
+WTVF,36.26811,-86.78778,http://www.newschannel5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36504/tv,":is(h2,h3,h4)"
+WSPA-TV,35.17011,-82.29067,http://www.wspa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66391/tv,":is(h4[class*=headline],ul.list a)"
+WKRC-TV,39.11645,-84.50189,http://Local12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11289/tv,div[class*=headline]
+KLAS-TV,35.94553,-115.04332,http://www.lasvegasnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35042/tv,":is(div[class*=headline],h4)"
+WPRI-TV,41.87677,-71.282,http://wpri.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47404/tv,":is(h4[class*=headline],ul.list a)"
+KGPE,37.0705,-119.42708,http://www.yourcentralvalley.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56034/tv,":is(h4[class*=headline],ul.list a)"
+WTKR,36.80876,-76.50328,http://WWW.WTKR.COM,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47401/tv,.entry-title
+WHP-TV,40.34537,-76.86886,http://www.cbs21.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72313/tv,div[class*=headline]
+KEYE-TV,30.32223,-97.80379,http://www.keyetv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33691/tv,":is(div[class*=headline],h4)"
+WLKY,38.36907,-85.82985,http://wlky.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53939/tv,":is(li > a,.feed-item-title)"
+KWTV-DT,35.59783,-97.48976,http://www.news9.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25382/tv,a > span
+WREG-TV,35.1812,-89.83231,http://www.wreg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66174/tv,.entry-title
+WFMY-TV,35.87041,-79.84003,http://www.wfmynews2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72064/tv,":is(div[class*=headline],h4)"
+WJAX-TV,30.28132,-81.56987,http://www.actionnewsjax.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35576/tv,li > a
+WYOU,41.18286,-75.87353,http://pahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17010/tv,":is(h4[class*=headline],ul.list a)"
+WINK-TV,26.80062,-81.76314,http://www.winknews.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22093/tv,":is(h4,h3)"
+WHIO-TV,39.73395,-84.248,http://whio.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41458/tv,span > a
+WKRG-TV,30.68908,-87.83027,http://wkrg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73187/tv,":is(h4[class*=headline],ul.list a)"
+KRQE,35.21115,-106.44975,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48575/tv,":is(h4[class*=headline],ul.list a)"
+KOTV-DT,36.02093,-95.67581,http://www.newson6.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35434/tv,a > span
+KTHV,34.79926,-92.50016,http://www.thv11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2787/tv,":is(div[class*=headline],h4)"
+WVLT-TV,35.99564,-83.9563,http://www.wvlt.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35908/tv,":is(h3,h4)"
+WNEM-TV,43.47058,-83.8433,http://www.wnem.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41221/tv,.tnt-headline
+KGBT-TV,26.14946,-97.82227,http://www.valleycentral.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34457/tv,":is(div[class*=headline],h4)"
+WDBJ,37.19513,-80.15615,http://wdbj7.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71329/tv,":is(h3,h4) > a"
+WHNT-TV,34.7387,-86.53221,http://www.whnt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48693/tv,.entry-title
+KOLD-TV,32.41563,-110.71509,http://www.tucsonnewsnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48663/tv,":is(h2,h3,h4)"
+WGME-TV,43.92452,-70.49061,http://www.wgme.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25683/tv,":is(div[class*=headline],h4)"
+WISC-TV,43.05583,-89.53512,http://channel3000.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65143/tv,":is(h4[class*=headline],ul.list a)"
+KDBC-TV,31.79622,-106.48304,http://www.cbs4local.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33764/tv,":is(div[class*=headline],h4)"
+WFRV-TV,44.3336,-87.98232,http://wearegreenbay.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9635/tv,li > a
+KCCI,41.80971,-93.62133,http://www.kcci.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33710/tv,":is(li > a,.feed-item-title)"
+WLTX,34.0971,-80.76397,http://www.wltx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/37176/tv,":is(div[class*=headline],h4)"
+KMTV-TV,41.30694,-96.02724,http://www.3NewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35190/tv,":is(h2,h3,h4)"
+WROC-TV,43.13562,-77.58361,http://rochesterfirst.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73964/tv,":is(h4[class*=headline],ul.list a)"
+WSBT-TV,41.61671,-86.21695,http://www.wsbt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73983/tv,":is(div[class*=headline],h4)"
+WCIA,40.10587,-88.45006,http://illinoishomepage.net/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42124/tv,":is(h4[class*=headline],ul.list a)"
+KFVS-TV,37.42949,-89.50398,http://www.kfvs12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/592/tv,":is(h2,h3,h4)"
+WTAJ-TV,40.56701,-78.4414,http://wearecentralpa.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23341/tv,":is(h4[class*=headline],ul.list a)"
+KXNW,36.41146,-93.95353,http://www.5newsonline.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/81593/tv,.entry-title
+KFSM-TV,35.83036,-94.15687,http://www.5newsonline.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66469/tv,.entry-title
+WBTW,34.36794,-79.32227,http://www.wbtw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66407/tv,li > a
+WKYT-TV,38.0398,-84.40271,http://www.wkyt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24914/tv,h3 > a
+KWTX-TV,31.32212,-97.31751,http://www.kwtx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35903/tv,h3 > a
+WTOC-TV,32.05409,-81.35011,http://www.wtoc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/590/tv,":is(h2,h3,h4)"
+WJHL-TV,36.43205,-82.13735,http://www.wjhl.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57826/tv,":is(h4[class*=headline],ul.list a)"
+WGFL,29.62997,-82.57317,http://www.mycbs4.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7727/tv,":is(div[class*=headline],h4)"
+KION-TV,36.53468,-121.62272,http://Kionrightnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/26249/tv,":is(div[class*=headline],h4)"
+WNCT-TV,35.36544,-77.39357,http://www.wnct.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57838/tv,h4.headline
+KWCH-DT,38.06046,-97.7638,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66413/tv,":is(h4,h3) > a"
+WANE-TV,41.09394,-85.17997,http://www.wane.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39270/tv,h4.headline
+WHBF-TV,41.54698,-90.47652,http://www.OurQuadcities.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/13950/tv,":is(h4[class*=headline],ul.list a)"
+WCSC-TV,32.9249,-79.69897,http://www.live5news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71297/tv,":is(h2,h3,h4)"
+WJTV,32.2407,-90.40426,http://www.wjtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48667/tv,li > a
+KBAK-TV,35.45301,-118.5912,http://www.bakersfieldnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4148/tv,":is(div[class*=headline],h4)"
+WEVV-TV,37.8881,-87.54362,http://www.wevv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72041/tv,h3 > a
+WRDW-TV,33.41014,-81.84345,http://www.wrdw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73937/tv,":is(h4,h3) > a"
+KLFY-TV,30.32215,-92.28318,http://www.klfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35059/tv,h4.headline
+KCOY-TV,34.91026,-120.18793,http://www.kcoy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63165/tv,li > a
+KBOI-TV,43.75572,-116.09928,http://kboi2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49760/tv,":is(div[class*=headline],h4)"
+WBOC-TV,38.50484,-75.64326,http://wboc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71218/tv,li > a
+WMAZ-TV,32.75292,-83.55879,http://www.13wmaz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/46991/tv,":is(div[class*=headline],h4)"
+WMBD-TV,40.63504,-89.53871,http://centralillinoisproud.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42121/tv,h4 > a
+KCBY-TV,43.39039,-124.13066,http://www.kcby.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49750/tv,":is(div[class*=headline],h4)"
+KVAL-TV,44.00179,-123.11592,http://www.kval.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49766/tv,":is(div[class*=headline],h4)"
+KPIC,43.23539,-123.32285,http://www.kpic.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61551/tv,skip
+WKBT-DT,44.0911,-91.33807,http://www.news8000.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74424/tv,":is(h4[class*=headline],ul.list a)"
+WCAX-TV,44.52561,-72.81568,http://www.wcax.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/46728/tv,":is(h4,h3) > a"
+KZTV,27.70806,-97.63333,http://www.kztv10.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33079/tv,":is(h4,h3) > a"
+WSEE-TV,42.0645,-80.00505,http://www.wsee.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49711/tv,a > div
+KVLY-TV,47.3422,-97.28926,http://valleynewslive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61961/tv,":is(h4,h3)"
+KNOE-TV,32.19738,-92.07069,http://www.knoe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48975/tv,":is(h4,h3)"
+WIBW-TV,39.00611,-96.04944,http://www.wibw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63160/tv,":is(h4,h3)"
+WWTV,44.13668,-85.34255,http://www.9and10news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/26994/tv,":is(h2,h3,h4)"
+WTRF-TV,40.06146,-80.75203,http://www.wtrf.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6869/tv,":is(div[class*=headline],h4)"
+WSAW-TV,44.92052,-89.69123,http://www.wsaw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6867/tv,":is(h4,h3)"
+WDTV,39.30064,-80.34342,http://www.wdtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70592/tv,":is(h2,h3,h4)"
+KTVA,61.19195,-149.90251,http://www.ktva.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49632/tv,":is(h2,h3,h4)"
+KOAM-TV,37.22089,-94.70718,http://www.koamtv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/58552/tv,":is(h4[class*=headline],ul.list a)"
+WTHI-TV,39.24337,-87.3853,http://www.wthitv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70655/tv,":is(h2,h3,h4)"
+KOLN,40.80306,-97.18143,http://www.1011now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7890/tv,":is(h4,h3)"
+KOSA-TV,31.86401,-102.57848,http://www.cbs7.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6865/tv,":is(h4,h3)"
+KFDA-TV,35.29283,-101.84546,http://www.newschannel10.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51466/tv,":is(h2,h3,h4)"
+KXII,34.03288,-96.80028,http://www.kxii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35954/tv,":is(h4,h3)"
+KAUZ-TV,33.90121,-98.5395,http://www.newschannel6now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6864/tv,":is(h2,h3,h4)"
+KLBK-TV,33.52592,-101.86905,http://everythinglubbock.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3660/tv,":is(h4[class*=headline],ul.list a)"
+KEPR-TV,46.09736,-119.19251,http://www.keprtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56029/tv,":is(div[class*=headline],h4)"
+KSWT,33.05504,-114.8283,http://KSWT.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33639/tv,":is(div[class*=headline],h4)"
+WBNG-TV,42.05869,-75.95131,http://www.wbng.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23337/tv,":is(h3,h4)[class*=title]"
+WBBJ-TV,35.63785,-88.69256,http://www.wbbjtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65204/tv,":is(h2,h3,h4)"
+KELO-TV,43.51859,-96.53504,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41983/tv,":is(div[class*=headline],h4)"
+WHSV-TV,38.60151,-78.63224,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4688/tv,":is(h2,h3,h4)"
+WSVF-CD,38.3929,-78.77002,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/190915/tv,":is(h2,h3,h4)"
+KIDK,43.72102,-111.94247,http://www.localnews8.com/kidk,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56028/tv,skip
+WABI-TV,44.70332,-69.07915,http://www.wabi.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17005/tv,":is(h4,h3)"
+WSWG,31.17186,-83.36571,http://www.wswg.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/28155/tv,":is(h2,h3,h4)"
+KTAB-TV,32.27735,-99.59786,http://bigcountryhomepage.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59988/tv,":is(h4[class*=headline],ul.list a)"
+KALB-TV,31.03769,-92.49597,http://www.kalb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51598/tv,":is(h4,h3)"
+WHLT,31.40573,-89.237,http://www.whlt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48668/tv,h4.headline
+WOHL-CD,40.74755,-84.13189,http://www.hometownstations.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68549/tv,":is(div[class*=headline],h4)"
+WTVY,30.91991,-85.7416,http://www.wtvy.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4152/tv,":is(h2,h3,h4)"
+KGIN,40.58724,-98.80313,http://www.1011now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7894/tv,":is(h4,h3)"
+KHQA-TV,39.97282,-91.33181,http://www.khqa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4690/tv,":is(div[class*=headline],h4)"
+KHSL-TV,39.95794,-121.7147,http://www.ActionNewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24508/tv,":is(h2,h3,h4)"
+KBTX-TV,30.55464,-96.03107,http://www.kbtx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6669/tv,":is(h4,h3)"
+KEYC-TV,43.93718,-94.41163,http://www.keyc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68853/tv,a > div
+WJMN-TV,46.13468,-86.94876,http://www.upmatters.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9630/tv,":is(h4[class*=headline],ul.list a)"
+KBSH-DT,38.88362,-99.33788,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66415/tv,":is(h4,h3)"
+WENY-TV,42.14202,-77.07747,http://www.weny.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71508/tv,skip
+KCLO-TV,44.07027,-103.25074,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41969/tv,":is(div[class*=headline],h4)"
+KREZ-TV,37.26278,-107.90068,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48589/tv,":is(h4[class*=headline],ul.list a)"
+KBIM-TV,33.05567,-103.82051,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48556/tv,":is(h4[class*=headline],ul.list a)"
+KDLO-TV,44.96552,-97.58981,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41975/tv,":is(div[class*=headline],h4)"
+KMVT,42.72963,-114.41532,http://www.kmvt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35200/tv,":is(h2,h3,h4)"
+KJRW,40.72716,-123.97369,http://www.kviq.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42640/tv,":is(h1,h3)"
+KLST,31.36711,-100.04702,http://conchovalleyhomepage.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/31114/tv,":is(h4[class*=headline],ul.list a)"
+WWNY-TV,43.95423,-75.72881,http://www.wwnytv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68851/tv,":is(div[class*=headline],h4)"
+KLEW-TV,46.45738,-117.09988,http://www.klewtv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56032/tv,skip
+KBSD-DT,37.64113,-100.34459,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66414/tv,":is(h4,h3)"
+KRII,47.86076,-92.94629,http://www.nncnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/82698/tv,skip
+KGWN-TV,41.10026,-105.00692,http://www.kgwn.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63166/tv,":is(h4,h3)"
+KXMB-TV,46.58972,-100.80596,http://www.kxnet.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55686/tv,":is(h4[class*=headline],ul.list a)"
+KBZK,45.67327,-110.868,http://www.kbzk.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33756/tv,li > a
+WBKB-TV,44.70307,-83.52386,http://wbkb11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67048/tv,li > a
+WWUP-TV,46.06002,-84.09918,http://www.9and10news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/26993/tv,":is(h2,h3,h4)"
+WAGM-TV,46.55115,-67.80891,http://wagmtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48305/tv,":is(h4,h3)"
+KXLF-TV,46.00743,-112.44252,http://www.kxlf.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35959/tv,li > a
+KXMD-TV,48.14169,-103.89326,http://www.kxnet.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55683/tv,":is(h4[class*=headline],ul.list a)"
+KBSL-DT,39.46944,-101.55572,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66416/tv,":is(h4,h3)"
+KPLO-TV,43.90749,-99.6965,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41964/tv,":is(div[class*=headline],h4)"
+KXMA-TV,46.7264,-102.91629,http://www.kxnet.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55684/tv,":is(h4[class*=headline],ul.list a)"
+KXGN-TV,47.04418,-104.68176,http://www.kxgn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24287/tv,skip
+KUAM-TV,13.43282,144.71242,http://www.kuam.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51233/tv,":is(h4,h3)"
+WFLD,41.87892,-87.63616,http://www.fox32chicago.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22211/tv,":is(h2,h3,h4)"
+KBCW,37.75521,-122.45275,http://www.kbcwtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/69619/tv,.title-wrapper
+WKBD-TV,42.48365,-83.31215,http://cwdetroit.cbslocal.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51570/tv,.title-wrapper
+KSTW,47.61538,-122.30929,http://cwseattle.cbslocal.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23428/tv,.title-wrapper
+WUCW,45.06219,-93.13939,http://thecwtc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36395/tv,.media-heading
+WTOG,27.82975,-82.2662,http://cwtampa.cbslocal.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74112/tv,.title-wrapper
+WSFL-TV,25.96898,-80.22199,http://sfltv.net,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10203/tv,.entry-title
+KWGN-TV,39.73277,-105.2361,http://kdvr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35883/tv,.entry-title
+WKCF,28.58711,-81.08242,http://cw18tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53465/tv,":is(li > a,.feed-item-title)"
+KRCW-TV,45.51595,-122.73399,http://www.nw32.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10192/tv,.entry-title
+WISH-TV,39.89032,-86.20555,http://www.wishtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39269/tv,":is(div[class*=headline],h4)"
+WCCB,35.26736,-80.73424,http://www.wccbcharlotte.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49157/tv,":is(h2,h3,h4)"
+WCCT-TV,41.70371,-72.83204,http://www.ct.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14050/tv,li > a
+KTVX,40.65911,-112.20356,http://www.good4utah.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68889/tv,":is(h4[class*=headline],ul.list a)"
+KUCW,40.65911,-112.20356,http://www.good4utah.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/1136/tv,":is(h4[class*=headline],ul.list a)"
+KMYS,29.61078,-98.89281,http://CW35.TV,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51518/tv,":is(h4,h3).media-heading"
+WWHO,39.58895,-83.11213,http://www.cwcolumbus.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21158/tv,.media-heading
+WKRC-TV,39.11645,-84.50189,http://Local12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11289/tv,":is(div[class*=headline],h4)"
+KVCW,36.00775,-115.00749,http://www.thecwlasvegas.tv/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10195/tv,.media-heading
+WNAC-TV,41.87677,-71.282,http://www.foxprovidence.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73311/tv,":is(h4[class*=headline],ul.list a)"
+KFRE-TV,37.07689,-119.43458,http://kmph.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59013/tv,skip
+WGNT,36.81237,-76.46189,http://www.wgnt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9762/tv,.entry-title
+WCWN,42.62536,-74.01013,http://cwalbany.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73264/tv,.media-heading
+WHP-TV,40.34537,-76.86886,http://www.cbs21.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72313/tv,skip
+KNVA,30.32604,-97.79973,http://www.theCW.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/144/tv,skip
+WBKI,38.35007,-85.84913,http://www.wmyo.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34167/tv,skip
+KOCB,35.5495,-97.48865,http://www.cwokc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/50170/tv,.media-heading
+WLMT,35.27592,-89.77731,http://localmemphis.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68518/tv,":is(h4[class*=headline],ul.list a)"
+WXII-TV,36.37542,-80.37367,http://www.triad20.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53921/tv,":is(li > a,.feed-item-title)"
+WCWJ,30.27691,-81.56287,http://www.news4jax.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/29712/tv,":is(h4,h3)"
+WSWB,41.43591,-75.72853,http://www.thecwwswb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73374/tv,skip
+WXCW,26.78609,-81.79589,http://www.wxcw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61504/tv,skip
+WDTN,39.71867,-84.25605,http://www.wdtn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65690/tv,":is(h4[class*=headline],ul.list a)"
+WNOL-TV,29.94993,-89.95785,http://www.nola38.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/54280/tv,":is(div[class*=headline],h4)"
+WFNA,30.68797,-87.79832,http://www.wkrg.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/83943/tv,":is(h4[class*=headline],ul.list a)"
+KHAW-TV,19.71057,-155.1314,http://www.KHON2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4146/tv,":is(div[class*=headline],h4)"
+KHON-TV,21.291,-157.83559,http://www.khon2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4144/tv,":is(div[class*=headline],h4)"
+KAII-TV,20.65709,-156.35996,http://www.KHON2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4145/tv,":is(div[class*=headline],h4)"
+KQCW-DT,35.75232,-95.80443,http://www.tulsacw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/78322/tv,":is(h1,h2,h4)"
+WBSF,43.47414,-83.84578,http://www.theCW46.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/82627/tv,.media-heading
+WWCW,37.3207,-79.63253,http://www.virginiafirst.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24812/tv,":is(div[class*=headline],h4)"
+WHDF,35.00258,-87.13585,http://www.lbgtv.com/category/233177/valleys-cw,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65128/tv,skip
+KWBA-TV,31.75898,-110.80147,http://www.thecwtucson.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35095/tv,":is(h1,h3)"
+WBRL-CD,30.32631,-91.27678,http://brproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24976/tv,":is(h4[class*=headline],ul.list a)"
+WMTV,43.05083,-89.48707,http://www.nbc15.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6870/tv,":is(h4,h3)"
+KVIA-TV,31.80539,-106.4836,http://www.kvia.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49832/tv,":is(div[class*=headline],h4)"
+WCWF,44.3336,-87.98232,http://www.cw14online.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73042/tv,.media-heading
+KCWI-TV,41.82999,-93.61522,http://www.weareiowa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51502/tv,":is(h4[class*=headline],ul.list a)"
+KXVO,41.07111,-96.22557,http://www.cw15KXVO.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23277/tv,.media-heading
+KYTV,37.17394,-92.94131,http://www.ky3.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36003/tv,":is(h2,h3,h4)"
+KXRM-TV,38.74524,-104.86217,http://www.coloradoconnection.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35991/tv,":is(div[class*=headline],h4)"
+WHAM-TV,43.13534,-77.58389,http://www.13wham.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73371/tv,":is(div[class*=headline],h4)"
+WBUI,39.94893,-88.83674,http://www.cw23tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16363/tv,":is(h2,h3,h4)"
+WWMB,34.36738,-79.33005,http://www.carolinalive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3133/tv,":is(div[class*=headline],h4)"
+WKYT-TV,38.0398,-84.40271,http://www.wkyt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24914/tv,":is(h4,h3)"
+KWTX-TV,31.32212,-97.31751,http://www.kwtx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35903/tv,":is(h4,h3)"
+WCYB-TV,36.44956,-82.10791,http://www.wcyb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2455/tv,skip
+KSCW-DT,38.06046,-97.7638,http://www.kansascw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72348/tv,":is(h4,h3)"
+WFMJ-TV,41.08006,-80.64007,http://WWW.WFMJ.COM,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72062/tv,":is(div[class*=headline],h4)"
+WJTV,32.2407,-90.40426,http://www.wjtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48667/tv,":is(h4[class*=headline],ul.list a)"
+WTVW,38.02421,-87.36195,http://tristatehomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3661/tv,":is(h4[class*=headline],ul.list a)"
+KTTV,34.22473,-118.06424,http://myfoxla.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22208/tv,":is(h2,h3,h4)"
+WTXF-TV,40.04067,-75.23824,http://www.fox29.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51568/tv,":is(h2,h3,h4)"
+KTVU,37.75521,-122.45275,http://WWW.KTVU.COM,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35703/tv,":is(h2,h3,h4)"
+WAGA-TV,33.7976,-84.33381,http://www.myfoxatlanta.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70689/tv,":is(h2,h3,h4)"
+WFXT,42.30288,-71.21811,http://boston25news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6463/tv,li > a
+WTTG,38.95622,-77.08276,http://www.fox5dc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22207/tv,":is(h2,h3,h4)"
+WJBK,42.46059,-83.21382,http://www.myfoxdetroit.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73123/tv,":is(h2,h3,h4)"
+KMSP-TV,45.0583,-93.12439,http://www.myfox9.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68883/tv,":is(h2,h3,h4)"
+KSAZ-TV,33.33421,-112.06265,http://www.fox10phoenix.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35587/tv,":is(h2,h3,h4)"
+WTVT,27.81919,-82.24037,http://myfoxtampabay.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68569/tv,":is(h2,h3,h4)"
+WSVN,25.96704,-80.21171,http://www.wsvn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63840/tv,":is(h2,h3,h4)"
+KFCT,40.6422,-104.81858,http://kdvr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/125/tv,.entry-title
+KDVR,39.72832,-105.23768,http://kdvr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/126/tv,.entry-title
+WOFL,28.60389,-81.08617,http://www.myfoxorlando.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41225/tv,":is(h2,h3,h4)"
+KSWB-TV,32.69644,-116.93697,http://Www.fox5sandiego.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/58827/tv,.entry-title
+WJZY,35.36236,-81.15508,http://fox46charlotte.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73152/tv,":is(h2,h3,h4)"
+WTIC-TV,41.70371,-72.83204,http://www.foxct.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/147/tv,.entry-title
+WBFF,39.33622,-76.64941,http://www.FOXbaltimore.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10758/tv,skip
+KABB,29.29135,-98.27029,http://foxsanantonio.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56528/tv,":is(div[class*=headline],h4)"
+WPGH-TV,40.49535,-80.0045,http://www.wpgh53.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73875/tv,.media-heading
+WDAF-TV,39.0725,-94.59607,http://fox4kc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11291/tv,.entry-title
+WHNS,35.18234,-82.68207,http://www.foxcarolina.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72300/tv,":is(div[class*=headline],h4)"
+WXIX-TV,39.122,-84.54772,http://www.fox19.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39738/tv,":is(h2,h3,h4)"
+KVVU-TV,36.0072,-115.00694,http://fox5vegas.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35870/tv,":is(div[class*=headline],h4)"
+KMPH-TV,36.66717,-118.8801,http://kmph.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51488/tv,":is(div[class*=headline],h4)"
+WVBT,36.82098,-76.51078,http://www.fox43tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65387/tv,skip
+WDRB,38.35007,-85.84913,http://www.wdrb.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/28476/tv,":is(div[class*=headline],h4)"
+KOKH-TV,35.5495,-97.48865,http://www.okcfox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35388/tv,skip
+WHBQ-TV,35.17481,-89.84536,http://www.myfoxmemphis.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12521/tv,li > a
+WFOX-TV,30.28132,-81.56987,http://www.fox30jax.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11909/tv,li > a
+WOLF-TV,41.63203,-75.42546,http://www.myfoxnepa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73375/tv,skip
+WFTX-TV,26.79534,-81.80119,http://www.fox4now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70649/tv,":is(h2,h3,h4)"
+WRLH-TV,37.51265,-77.6011,http://foxrichmond.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/412/tv,.media-heading
+WVUE-DT,29.95409,-89.94951,http://www.fox8live.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4149/tv,":is(h2,h3,h4)"
+WALA-TV,30.68825,-87.79832,http://www.fox10tv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4143/tv,":is(div[class*=headline],h4)"
+KHAW-TV,19.71057,-155.1314,http://www.KHON2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4146/tv,":is(h4[class*=headline],ul.list a)"
+KHON-TV,21.291,-157.83559,http://www.khon2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4144/tv,":is(h4[class*=headline],ul.list a)"
+KAII-TV,20.65709,-156.35996,http://www.KHON2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4145/tv,":is(h4[class*=headline],ul.list a)"
+KOKI-TV,36.02677,-95.67943,http://www.fox23.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11910/tv,li > a
+KLRT-TV,34.79926,-92.49182,http://www.fox16.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11951/tv,":is(h4[class*=headline],ul.list a)"
+WFXR,37.19661,-80.15407,http://www.virginiafirst.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24813/tv,":is(div[class*=headline],h4)"
+WZDX,34.73676,-86.53305,http://rocketcitynow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/28119/tv,":is(h4[class*=headline],ul.list a)"
+WGMB-TV,30.32658,-91.27678,http://www.fox44.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12520/tv,":is(h4[class*=headline],ul.list a)"
+WPFO,44.15424,-70.00977,http://FOX23Maine.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/84088/tv,skip
+WMSN-TV,43.05583,-89.53512,http://www.fox47.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10221/tv,.media-heading
+KFOX-TV,31.81538,-106.48943,http://www.kfoxtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33716/tv,skip
+WLUK-TV,44.40888,-87.99205,http://www.fox11online.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4150/tv,skip
+KDSM-TV,41.82999,-93.61522,http://www.kdsm17.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56527/tv,.media-heading
+KAYU-TV,47.57878,-117.29715,http://www.myfoxspokane.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/58684/tv,skip
+WSYT,42.88062,-76.19965,http://www.foxsyracuse.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40758/tv,skip
+KRBK,37.81948,-92.74796,http://www.ozarksfirst.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/166319/tv,":is(h4[class*=headline],ul.list a)"
+WVAH-TV,38.40787,-81.90347,http://www.wvah.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/417/tv,skip
+KFXK-TV,32.25988,-94.95077,http://www.easttexasmatters.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70917/tv,":is(h4[class*=headline],ul.list a)"
+WCCU,40.31281,-87.9167,http://www.foxillinois.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/69544/tv,":is(div[class*=headline],h4)"
+WRSP-TV,39.79921,-89.4462,http://www.foxillinois.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/62009/tv,":is(div[class*=headline],h4)"
+KBSI,37.40644,-89.56232,http://www.kbsi23.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/19593/tv,.media-heading
+WGGB-TV,42.24176,-72.6487,http://www.wggb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25682/tv,":is(h2,h3,h4)"
+KMSS-TV,32.66626,-93.93324,http://www.kmsstv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12525/tv,":is(div[class*=headline],h4)"
+KNWA-TV,36.41335,-93.95487,http://nwahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/29557/tv,":is(h4[class*=headline],ul.list a)"
+KFTA-TV,35.71008,-94.1377,http://nwahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/29560/tv,":is(h4[class*=headline],ul.list a)"
+WFXB,34.18877,-79.1831,http://www.wfxb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9054/tv,":is(h2,h3,h4)"
+WDKY-TV,37.88091,-84.32104,http://www.foxlexington.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/64017/tv,":is(div[class*=headline],h4)"
+KWKT-TV,31.31489,-97.32695,http://www.centexproud.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12522/tv,":is(h4[class*=headline],ul.list a)"
+KFXA,42.09027,-92.08713,http://www.fox28iowa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35336/tv,":is(div[class*=headline],h4)"
+WOGX,29.35942,-82.32816,http://www.wogx.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70651/tv,":is(h2,h3,h4,.feed-entry-title)"
+KCBA,36.75607,-121.50383,http://www.kcba.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14867/tv,skip
+WTWC-TV,30.68075,-83.97239,http://www.wtwc40.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66908/tv,.media-heading
+KSAS-TV,37.77779,-97.51088,http://www.foxkansas.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11911/tv,.media-heading
+WFFT-TV,41.10921,-85.19497,http://wfft.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25040/tv,.entry-title
+KLJB,41.31226,-90.37929,http://www.OurQuadCities.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/54011/tv,":is(h4[class*=headline],ul.list a)"
+WTAT-TV,32.94017,-79.69563,http://www.foxcharleston.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/416/tv,div > a
+KBFX-CD,35.45301,-118.5912,http://www.bakersfieldnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51501/tv,":is(div[class*=headline],h4)"
+KADN-TV,30.36242,-92.21485,http://www.kadn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33261/tv,":is(h3,li > a)"
+KCOY-TV,34.91026,-120.18793,http://www.kcoy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63165/tv,":is(h4,ul.list > li) > a"
+KNIN-TV,43.75489,-116.09873,http://www.fox9now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59363/tv,skip
+WLOV-TV,33.79445,-89.08779,http://www.wlov.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/37732/tv,skip
+KLSR-TV,44.00096,-123.1137,http://oregonsfox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8322/tv,skip
+KRXI-TV,39.31055,-119.88472,http://www.foxreno.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48360/tv,skip
+WLAX,43.80445,-91.37216,http://www.wiproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2710/tv,":is(h4[class*=headline],ul.list a)"
+WEUX,44.95663,-91.66767,http://www.wiproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2709/tv,":is(h4[class*=headline],ul.list a)"
+WCOV-TV,31.9746,-86.16218,http://www.wcov.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73642/tv,skip
+WFFF-TV,44.52589,-72.8154,http://www.MyChamplainValley.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10132/tv,":is(h4[class*=headline],ul.list a)"
+KBTV-TV,30.15577,-93.98629,http://www.fox4beaumont.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61214/tv,skip
+KMIZ,38.77475,-92.55638,http://www.abc17news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63164/tv,":is(div[class*=headline],h4)"
+WFXP,42.04033,-80.06894,http://yourerie.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/19707/tv,":is(h3,li > a)"
+KDFX-CD,33.86613,-116.43473,http://www.kesq.com/kdfx,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51207/tv,skip
+KTMJ-CD,39.06389,-95.76387,http://www.ksnt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43649/tv,":is(h4[class*=headline],ul.list a)"
+WQRF-TV,42.28724,-89.17094,http://mystateline.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/52408/tv,":is(h4[class*=headline],ul.list a)"
+WTOV-TV,40.34257,-80.62035,http://www.wtov9.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74122/tv,skip
+WSAW-TV,44.92052,-89.69123,http://www.wsaw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6867/tv,":is(h3,li > a)"
+WVFX,39.30064,-80.34342,http://www.wdtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10976/tv,":is(h3,li > a)"
+KTBY,61.21917,-149.89221,http://youralaskalink.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35655/tv,.tnt-headline
+WXXV-TV,30.74686,-89.05838,http://www.wxxv25.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53517/tv,":is(h3,li > a)"
+KFJX,37.22089,-94.70718,http://www.fox14tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/83992/tv,":is(h4[class*=headline],ul.list a)"
+KPTH,43.25552,-94.97666,http://www.kpth.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/127822/tv,skip
+KXLT-TV,43.64274,-92.52656,http://www.myfox47.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35906/tv,.elementor-post__title
+KPEJ-TV,32.09762,-102.28959,http://www.YourBasin.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12524/tv,":is(h4[class*=headline],ul.list a)"
+KXII,34.03288,-96.80028,http://www.kxii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35954/tv,":is(h3,li > a)"
+KJTL,34.20148,-98.72951,http://texomashomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7675/tv,":is(h4[class*=headline],ul.list a)"
+KJTV-TV,33.50231,-101.87267,http://www.myfoxlubbock.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55031/tv,":is(h4,h3)"
+KFFX-TV,45.74764,-118.03855,http://www.myfoxtricities.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12729/tv,skip
+KECY-TV,33.05532,-114.82968,http://www.kyma.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51208/tv,":is(h4[class*=headline],ul.list a)"
+WICZ-TV,42.05619,-75.94381,http://www.wicz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/62210/tv,":is(div[class*=headline],h4)"
+KTTW,43.50525,-96.57227,http://kttw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/28521/tv,skip
+WSVF-CD,38.3929,-78.77002,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/190915/tv,":is(h3,li > a)"
+WFXV,43.14535,-75.176,http://cnyhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43424/tv,":is(h4[class*=headline],ul.list a)"
+KMVU-DT,42.29818,-122.7492,http://fox26medford.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/32958/tv,":is(h2,li > a)"
+WVII-TV,44.75979,-68.56642,http://www.wvii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3667/tv,":is(h3,li > a)"
+WFXL,31.33129,-83.86184,http://www.wfxl.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70815/tv,skip
+WBKO,37.06365,-86.43527,http://www.wbko.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4692/tv,":is(h3,li > a)"
+KTMF,47.01937,-114.01372,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14675/tv,":is(h2,h3,h4)"
+KXVA,32.27541,-99.59008,http://www.fox15abilene.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/62293/tv,":is(div[class*=headline],h4)"
+WNTZ-TV,31.66906,-91.69179,http://www.cenlanow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16539/tv,":is(h4[class*=headline],ul.list a)"
+WDFX-TV,31.20795,-85.61355,http://www.wdfxfox34.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/32851/tv,skip
+WGEM-TV,39.95116,-91.33154,http://www.wgem.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/54275/tv,":is(h3,li > a)"
+KXOF-CD,27.5203,-99.52226,http://www.mylaredofox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11699/tv,.entry-title
+KCVU,39.96349,-121.71165,http://kcvufox20.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/58605/tv,skip
+WGBC,32.32778,-88.69193,http://wgbctv.com/#nbc,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24314/tv,a > div
+WABG-TV,33.37318,-90.54037,http://wabg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43203/tv,":is(h3,li > a)"
+KEYC-TV,43.93718,-94.41163,http://www.keyc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68853/tv,div > a
+WLUC-TV,46.33633,-87.84902,http://www.UpperMichigansSource.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21259/tv,":is(h3,li > a)"
+KAAS-TV,39.10444,-97.38808,http://www.foxkansas.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11912/tv,.media-heading
+WYDC,42.29229,-77.67388,http://www.wydctv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43451/tv,skip
+KHSD-TV,44.32498,-103.8377,http://www.blackhillsfox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34348/tv,":is(h3,h4)"
+KFXO-CD,44.07762,-121.33142,http://www.ktvz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35464/tv,":is(h4[class*=headline],ul.list a)"
+KHMT,45.73996,-108.13901,http://yourbigsky.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47670/tv,":is(h4[class*=headline],ul.list a)"
+KIDY,31.58932,-100.51704,http://www.myfoxzone.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/58560/tv,":is(div[class*=headline],h4)"
+WNYF-CD,43.95423,-75.72881,http://www.wwnytv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/168478/tv,":is(div[class*=headline],h4)"
+KFBB-TV,47.53551,-111.2847,http://www.kfbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34412/tv,":is(h2,h3,h4)"
+KFYR-TV,46.60555,-100.80652,http://www.kfyrtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41427/tv,":is(h3,li > a)"
+KMOT,48.21556,-101.3185,http://www.kmot.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41425/tv,":is(h3,li > a)"
+WBKB-TV,44.70307,-83.52386,http://wbkb11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67048/tv,":is(h3,li > a)"
+KNOP-TV,41.20361,-100.7332,http://www.knopnews2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49273/tv,":is(h4,h3,li > a)"
+KWNB-TV,40.62556,-101.0296,http://www.nebraska.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21162/tv,":is(div[class*=headline],h4)"
+WAGM-TV,46.55115,-67.80891,http://wagmtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48305/tv,":is(h3,li > a)"
+KWYB,46.00659,-112.44252,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14674/tv,":is(h2,h3,h4)"
+KUMV-TV,48.13391,-103.86048,http://www.kumv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41429/tv,":is(h3,li > a)"
+KQCD-TV,46.94807,-102.99073,http://www.kqcd.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41430/tv,":is(h3,li > a)"
+KJUD,58.30106,-134.44233,http://www.youralaskalink.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/13814/tv,.tnt-headline
+WVXF,18.35523,-64.94681,http://www.wvxftv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3113/tv,skip
+WCAU,40.04178,-75.23601,http://www.nbc10.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63153/tv,li > a
+KXAS-TV,32.58541,-96.96862,http://www.nbcdfw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49330/tv,li > a
+KPRC-TV,29.56885,-95.49967,http://www.click2houston.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53117/tv,":is(h3,div > a)"
+KSTS,37.4991,-121.87329,http://www.telemundo48.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/64987/tv,":is(h3,li > a)"
+WXIA-TV,33.75677,-84.33187,http://www.11alive.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51163/tv,":is(div[class*=headline],h4)"
+WGBX-TV,42.31038,-71.23617,http://wgbh.org,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72098/tv,":is(h3,li > a)"
+KCRA-TV,38.26491,-121.49106,http://www.kcra.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33875/tv,":is(li > a,.feed-item-title)"
+WDIV-TV,42.48281,-83.20521,http://www.clickondetroit.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53114/tv,":is(h3,div > a)"
+KING-TV,47.63176,-122.35096,http://www.king5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34847/tv,":is(div[class*=headline],h4)"
+WFLA-TV,27.84253,-82.26231,http://www.wfla.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/64592/tv,":is(h4[class*=headline],ul.list a)"
+WTVJ,25.96926,-80.22171,http://www.nbc6.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63154/tv,li > a
+KSL-TV,40.65911,-112.20272,http://www.ksl.com/index.php?nid=10,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6359/tv,":is(h1,h2)"
+WBAL-TV,39.33483,-76.65052,http://www.wbaltv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65696/tv,":is(li > a,.feed-item-title)"
+WRAL-TV,35.67488,-78.5275,http://www.wral.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8688/tv,":is(h2,li > a)"
+WOAI-TV,29.26996,-98.26557,http://www.news4sanantonio.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/69618/tv,skip
+KSHB-TV,38.97834,-94.53384,http://www.kshb.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59444/tv,":is(h3,li > a)"
+WSMV-TV,36.14089,-86.86556,http://www.wsmv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41232/tv,":is(h2,h3,h4)"
+WCMH-TV,39.97118,-83.02768,http://nbc4i.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/50781/tv,":is(h4[class*=headline],ul.list a)"
+WPTV-TV,26.58924,-80.21199,http://www.wptv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59443/tv,":is(h3,li > a)"
+WLWT,39.12423,-84.52161,http://www.wlwt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/46979/tv,":is(li > a,.feed-item-title)"
+KSNV,36.00775,-115.00749,http://www.news3lv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10179/tv,skip
+WTMJ-TV,43.0914,-87.90203,http://www.todaystmj4.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74098/tv,":is(h3,li > a)"
+WAVY-TV,36.82098,-76.51078,http://www.wavy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71127/tv,":is(h4[class*=headline],ul.list a)"
+WOOD-TV,42.68745,-85.50974,http://www.woodtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36838/tv,":is(h4[class*=headline],ul.list a)"
+WVTM-TV,33.49066,-86.79666,http://www.alabamas13.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74173/tv,skip
+WGAL,40.03454,-76.61858,http://www.wgal.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53930/tv,":is(li > a,.feed-item-title)"
+KXAN-TV,30.32604,-97.79973,http://www.kxan.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35920/tv,":is(div[class*=headline],h4)"
+KFOR-TV,35.59783,-97.48976,http://www.kfor.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66222/tv,.entry-title
+WMC-TV,35.16926,-89.8862,http://www.wmctv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/19184/tv,":is(h4,h3,li > a)"
+WTLV,30.27357,-81.55342,http://www.firstcoastnews.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65046/tv,":is(div[class*=headline],h4)"
+WGRZ,42.71867,-78.5628,http://www.wgrz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/64547/tv,":is(div[class*=headline],h4)"
+WBRE-TV,41.18286,-75.87353,http://pahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71225/tv,":is(h4,h3,li > a)"
+WBBH-TV,26.82323,-81.76469,http://www.nbc-2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71085/tv,":is(h3,div > a)"
+WDTN,39.71867,-84.25605,http://www.wdtn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65690/tv,":is(h4,h3,li > a)"
+WDSU,29.94993,-89.95785,http://www.wdsu.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71357/tv,":is(li > a,.feed-item-title)"
+WPMI-TV,30.6113,-87.60721,http://www.local15tv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11906/tv,skip
+KJRH-TV,36.02093,-95.67581,http://www.kjrh.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59439/tv,":is(h3,div > a)"
+KARK-TV,34.79926,-92.49988,http://arkansasmatters.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33440/tv,":is(h4,h3,li > a)"
+WEYI-TV,43.21697,-83.72135,http://www.nbc25news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72052/tv,skip
+KVEO-TV,26.10063,-97.83916,http://www.rgvproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12523/tv,":is(h4,h3,li > a)"
+WSLS-TV,37.20097,-80.1481,http://www.wsls.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57840/tv,":is(h3,div > a)"
+WVLA-TV,30.32631,-91.27678,http://www.brproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70021/tv,":is(h4,h3,li > a)"
+WCSH,43.85841,-70.71089,http://www.WCSH6.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39664/tv,":is(div[class*=headline],h4)"
+WMTV,43.05083,-89.48707,http://www.nbc15.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6870/tv,":is(h4,h3,li > a)"
+WGBA-TV,44.35833,-87.9801,http://www.nbc26.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2708/tv,":is(h3,div > a)"
+WHO-DT,41.80915,-93.61494,http://www.whotv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66221/tv,.entry-title
+KHQ-TV,47.58101,-117.29743,http://www.khq.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34537/tv,":is(h4,h3,li > a)"
+WSTM-TV,42.94501,-76.11842,http://www.CNYCentral.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21252/tv,":is(div[class*=headline],h4)"
+WOWT,41.31111,-96.02724,http://www.wowt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65528/tv,":is(h4,h3,li > a)"
+KYTV,37.17394,-92.94131,http://www.ky3.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36003/tv,":is(h4,h3,li > a)"
+KOAA-TV,38.74499,-104.86136,http://www.koaa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59014/tv,":is(h4,h3,li > a)"
+WNDU-TV,41.6056,-86.21278,http://www.wndu.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41674/tv,":is(h4,h3,li > a)"
+KETK-TV,32.06127,-95.31412,http://www.easttexasmatters.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55643/tv,":is(h4,h3,li > a)"
+WJAC-TV,40.37146,-78.98197,http://www.wjactv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73120/tv,skip
+WWLP,42.08482,-72.70343,http://www.wwlp.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6868/tv,":is(h4,h3,li > a)"
+KTAL-TV,32.90319,-94.00574,http://arklatexhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35648/tv,":is(h4,h3,li > a)"
+KNWA-TV,36.41335,-93.95487,http://nwahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/29557/tv,":is(h4,h3,li > a)"
+KFTA-TV,35.71008,-94.1377,http://nwahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/29560/tv,":is(h4,h3,li > a)"
+WMBF-TV,33.73073,-79.07532,http://www.wmbfnews.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/83969/tv,":is(h4,h3,li > a)"
+WLEX-TV,38.03424,-84.3941,http://www.lex18.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73203/tv,":is(h4,h3,li > a)"
+KCEN-TV,31.27379,-97.22111,http://www.kcentv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10245/tv,":is(div[class*=headline],h4)"
+WSAV-TV,32.05882,-81.29845,http://www.wsav.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48662/tv,":is(h4,h3,li > a)"
+WCYB-TV,36.44956,-82.10791,http://www.wcyb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2455/tv,":is(div[class*=headline],h4)"
+WNBW-DT,29.62997,-82.57345,http://www.mycbs4.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/83965/tv,skip
+KSBW,36.75635,-121.50244,http://www.ksbw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/19653/tv,":is(li > a,.feed-item-title)"
+WITN-TV,35.36544,-77.39357,http://www.witn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/594/tv,":is(h4,h3,li > a)"
+KSNW,37.7739,-97.51449,http://www.ksn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72358/tv,":is(h4,h3,li > a)"
+KWQC-TV,41.31226,-90.37957,http://www.kwqc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6885/tv,":is(h4,h3,li > a)"
+WCBD-TV,32.94017,-79.69563,http://www.counton2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10587/tv,":is(h4,h3,li > a)"
+WILX-TV,42.44254,-84.57247,http://www.wilx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6863/tv,":is(h4,h3,li > a)"
+KADN-TV,30.36242,-92.21485,http://www.kadn.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33261/tv,":is(h4,h3,li > a)"
+KTVB,43.75433,-116.09984,http://www.ktvb.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34858/tv,":is(div[class*=headline],h4)"
+WTVA,33.79456,-89.08784,http://www.wtva.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74148/tv,":is(h4,h3,li > a)"
+KNAZ-TV,34.96835,-111.50848,http://www.azcentral.com/12news/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24749/tv,skip
+WMGT-TV,32.75347,-83.56268,http://www.41nbc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43847/tv,":is(h4,h3,li > a)"
+WEEK-TV,40.62945,-89.54804,http://www.CINewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24801/tv,skip
+KOLO-TV,39.31352,-119.88436,http://www.kolotv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63331/tv,":is(h4,h3,li > a)"
+WVNY,44.52589,-72.8154,http://www.myChamplainValley.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11259/tv,":is(h4,h3,li > a)"
+KBMT,30.00188,-94.09379,http://www.12newsnow.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/168236/tv,":is(div[class*=headline],h4)"
+KMIZ,38.77475,-92.55638,http://www.abc17news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63164/tv,":is(h4,h3,li > a)"
+WJET-TV,42.04033,-80.06894,http://yourerie.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65749/tv,":is(h4,h3,li > a)"
+WDAY-TV,47.00775,-97.20092,http://www.wday.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22129/tv,":is(h2,li > a)"
+WDAZ-TV,48.13833,-97.99343,http://www.wdaz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22124/tv,":is(h2,li > a)"
+KNOE-TV,32.19738,-92.07069,http://www.knoe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48975/tv,":is(h4,h3,li > a)"
+KESQ-TV,33.86613,-116.4364,http://www.kesq.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25577/tv,":is(h4,h3,li > a)"
+KTKA-TV,39.02611,-95.91721,http://www.ktka.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49397/tv,":is(h4,h3,li > a)"
+WTVO,42.28724,-89.17094,http://mystateline.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72945/tv,":is(h4[class*=headline],ul.list a)"
+WMOW,45.57302,-88.88261,http://www.waow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/81503/tv,":is(h4,h3,li > a)"
+KODE-TV,37.07701,-94.53773,http://fourstateshomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18283/tv,":is(h4,h3,li > a)"
+KCAU-TV,42.58638,-96.23252,http://www.kcautv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11265/tv,":is(h4,h3,li > a)"
+WAWV-TV,39.24254,-87.39141,http://mywabashvalley.com/wawv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65247/tv,":is(h4,h3,li > a)"
+KLKN,40.88307,-97.3056,http://www.klkntv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11264/tv,":is(h3,div > a)"
+KVII-TV,35.37505,-101.88269,http://www.abc7amarillo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40446/tv,skip
+KTEN,34.35954,-96.55972,http://www.kten.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35666/tv,":is(h2,h3,h4)"
+KVEW,46.10319,-119.13362,http://www.kvewtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/2495/tv,":is(h4,h3,li > a)"
+KECY-TV,33.05532,-114.82968,http://www.kyma.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51208/tv,":is(h4,h3,li > a)"
+WIVT,42.06091,-75.94297,http://www.newschannel34.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11260/tv,":is(h4,h3,li > a)"
+KSFY-TV,43.51859,-96.53504,http://www.ksfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48658/tv,":is(h4,h3,li > a)"
+WHSV-TV,38.60151,-78.63224,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4688/tv,":is(h4,h3,li > a)"
+WOAY-TV,37.95733,-81.15066,http://woay.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66804/tv,":is(h4,h3,li > a)"
+WUTR,43.14535,-75.17572,http://cnyhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57837/tv,":is(h4[class*=headline],ul.list a)"
+KIFI-TV,43.50102,-112.66277,http://www.localnews8.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66258/tv,":is(h4,h3,li > a)"
+KDRV,42.69151,-123.23006,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60736/tv,":is(h4,h3,li > a)"
+WVII-TV,44.75979,-68.56642,http://www.wvii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3667/tv,":is(h4,h3,li > a)"
+WBKO,37.06365,-86.43527,http://www.wbko.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4692/tv,":is(h4,h3,li > a)"
+WMBB,30.35242,-85.39103,http://www.wmbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66398/tv,":is(h4[class*=headline],ul.list a)"
+KTMF,47.01937,-114.01372,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14675/tv,":is(h4,h3,li > a)"
+KTXS-TV,32.41346,-100.10732,http://www.ktxs.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/308/tv,":is(div[class*=headline],h4)"
+WDAM-TV,31.4535,-89.28478,http://www.wdam.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21250/tv,":is(h4,h3,li > a)"
+WOHL-CD,40.74755,-84.13189,http://www.hometownstations.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68549/tv,":is(h4,h3,li > a)"
+WDHN,31.24045,-85.31188,http://dothanfirst.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43846/tv,":is(h4,h3,li > a)"
+KHQA-TV,39.97282,-91.33181,http://www.khqa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4690/tv,skip
+KGNS-TV,27.67279,-99.66449,http://www.kgns.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10061/tv,":is(h4,h3,li > a)"
+KRCR-TV,40.60265,-122.65113,http://www.krcrtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8291/tv,":is(div[class*=headline],h4)"
+WTOK-TV,32.32737,-88.69116,http://www.wtok.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4686/tv,":is(h4,h3,li > a)"
+WABG-TV,33.37318,-90.54037,http://wabg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43203/tv,":is(h4,h3,li > a)"
+KOTA-TV,44.06665,-103.25074,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34347/tv,":is(h4,h3,li > a)"
+KHSD-TV,44.32498,-103.8377,http://www.blackhillsfox.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34348/tv,":is(h4,h3,li > a)"
+WWTI,43.87979,-75.71936,http://www.informnny.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16747/tv,":is(h4,h3,li > a)"
+KFBB-TV,47.53551,-111.2847,http://www.kfbb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34412/tv,":is(h4,h3,li > a)"
+KUPK,37.6503,-100.66877,http://www.kake.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65535/tv,":is(h4,h3,li > a)"
+KDKF,42.09709,-121.63416,http://www.kdrv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60740/tv,":is(h4,h3,li > a)"
+WBKB-TV,44.70307,-83.52386,http://wbkb11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67048/tv,":is(h4,h3,li > a)"
+KVIH-TV,34.19286,-103.2794,http://www.abc7amarillo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/40450/tv,skip
+K09YI-D,44.24304,-105.53917,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/167560/tv,":is(h4,h3,li > a)"
+KSGW-TV,44.62219,-107.11646,http://kotatv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17680/tv,":is(h4,h3,li > a)"
+KWYB,46.00659,-112.44252,http://www.abcfoxmontana.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/14674/tv,":is(h4,h3,li > a)"
+KALB-TV,31.03769,-92.49597,http://www.kalb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51598/tv,":is(h4,h3,li > a)"
+KAUZ-TV,33.90121,-98.5395,http://www.newschannel6now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6864/tv,":is(h4,h3,li > a)"
+KBAK-TV,35.45301,-118.5912,http://www.bakersfieldnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4148/tv,skip
+KBIM-TV,33.05567,-103.82051,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48556/tv,":is(h4,h3,li > a)"
+KBSD-DT,37.64113,-100.34459,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66414/tv,":is(h4,h3,li > a)"
+KBSH-DT,38.88362,-99.33788,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66415/tv,":is(h4,h3,li > a)"
+KBTX-TV,30.55464,-96.03107,http://www.kbtx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6669/tv,":is(h4,h3,li > a)"
+KCBS-TV,34.22723,-118.06757,http://losangeles.cbslocal.com/station/cbs-kcal/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9628/tv,.title-wrapper
+KCBY-TV,43.39039,-124.13066,http://www.kcby.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49750/tv,skip
+KCLO-TV,44.07027,-103.25074,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41969/tv,":is(h4,h3,li > a)"
+KCNC-TV,39.73082,-105.23221,http://www.cbsdenver.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47903/tv,":is(h3,div > a)"
+KCOY-TV,34.91026,-120.18793,http://www.kcoy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63165/tv,":is(h4,h3,li > a)"
+KCTV,39.07056,-94.58273,http://www.kctv5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41230/tv,":is(h4,h3,li > a)"
+KDBC-TV,31.79622,-106.48304,http://www.cbs4local.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33764/tv,skip
+KDLO-TV,44.96552,-97.58981,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41975/tv,":is(h4,h3,li > a)"
+KELO-TV,43.51859,-96.53504,http://www.keloland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41983/tv,":is(h4,h3,li > a)"
+KEPR-TV,46.09736,-119.19251,http://www.keprtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56029/tv,skip
+KEYC-TV,43.93718,-94.41163,http://www.keyc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68853/tv,":is(h3,div > a)"
+KEYE-TV,30.32223,-97.80379,http://www.keyetv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33691/tv,skip
+KFDA-TV,35.29283,-101.84546,http://www.newschannel10.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/51466/tv,":is(h4,h3,li > a)"
+KFVS-TV,37.42949,-89.50398,http://www.kfvs12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/592/tv,":is(h4,h3,li > a)"
+KGBT-TV,26.14946,-97.82227,http://www.valleycentral.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/34457/tv,skip
+KGIN,40.58724,-98.80313,http://www.1011now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7894/tv,":is(h4,h3,li > a)"
+KGPE,37.0705,-119.42708,http://www.yourcentralvalley.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56034/tv,":is(h4,h3,li > a)"
+KHSL-TV,39.95794,-121.7147,http://www.ActionNewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24508/tv,":is(h4,h3,li > a)"
+KION-TV,36.53468,-121.62272,http://Kionrightnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/26249/tv,":is(h4,h3,li > a)"
+KJRW,40.72716,-123.97369,http://www.kviq.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42640/tv,":is(h4,h3,li > a)"
+KLBK-TV,33.52592,-101.86905,http://everythinglubbock.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/3660/tv,":is(h4,h3,li > a)"
+KLBY,39.2525,-101.35294,http://www.kake.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65523/tv,":is(h4,h3,li > a)"
+KLEW-TV,46.45738,-117.09988,http://www.klewtv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56032/tv,":is(div[class*=headline],h4)"
+KLFY-TV,30.32215,-92.28318,http://www.klfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35059/tv,":is(h4,h3,li > a)"
+KLST,31.36711,-100.04702,http://conchovalleyhomepage.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/31114/tv,":is(h4,h3,li > a)"
+KMTV-TV,41.30694,-96.02724,http://www.3NewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35190/tv,":is(h3,div > a)"
+KMVT,42.72963,-114.41532,http://www.kmvt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35200/tv,":is(h4,h3,li > a)"
+KOLD-TV,32.41563,-110.71509,http://www.tucsonnewsnow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48663/tv,":is(h4,h3,li > a)"
+KOLN,40.80306,-97.18143,http://www.1011now.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7890/tv,":is(h4,h3,li > a)"
+KOSA-TV,31.86401,-102.57848,http://www.cbs7.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6865/tv,":is(h4,h3,li > a)"
+KOTV-DT,36.02093,-95.67581,http://www.newson6.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35434/tv,":is(h3,div > a)"
+KOVR,38.23992,-121.5019,http://cbssacramento.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/56550/tv,a > div
+KPHO-TV,33.33394,-112.06181,http://cbs5az.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41223/tv,":is(h4,h3,li > a)"
+KPIX-TV,37.75521,-122.45275,http://www.kpix.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25452/tv,":is(h3,div > a)"
+KPRY-TV,44.05193,-100.08457,http://www.ksfy.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48660/tv,":is(h4,h3,li > a)"
+KREZ-TV,37.26278,-107.90068,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48589/tv,":is(h4,h3,li > a)"
+KRQE,35.21115,-106.44975,http://www.krqe.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48575/tv,":is(h4,h3,li > a)"
+KSWT,33.05504,-114.8283,http://KSWT.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33639/tv,":is(h4,h3,li > a)"
+KTAB-TV,32.27735,-99.59786,http://bigcountryhomepage.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59988/tv,":is(h4,h3,li > a)"
+KTVA,61.19195,-149.90251,http://www.ktva.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49632/tv,":is(h4,h3,li > a)"
+KVAL-TV,44.00179,-123.11592,http://www.kval.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49766/tv,skip
+KVLY-TV,47.3422,-97.28926,http://valleynewslive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/61961/tv,":is(h4,h3,li > a)"
+KWCH-DT,38.06046,-97.7638,http://www.kwch.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66413/tv,":is(h4,h3,li > a)"
+KWTV-DT,35.59783,-97.48976,http://www.news9.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25382/tv,":is(h3,div > a)"
+KWTX-TV,31.32212,-97.31751,http://www.kwtx.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35903/tv,":is(h4,h3,li > a)"
+KXII,34.03288,-96.80028,http://www.kxii.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35954/tv,":is(h4,h3,li > a)"
+KZTV,27.70806,-97.63333,http://www.kztv10.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33079/tv,":is(h4,h3,li > a)"
+WABI-TV,44.70332,-69.07915,http://www.wabi.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17005/tv,":is(h4,h3,li > a)"
+WANE-TV,41.09394,-85.17997,http://www.wane.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39270/tv,":is(h4,h3,li > a)"
+WBNG-TV,42.05869,-75.95131,http://www.wbng.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23337/tv,":is(h4,h3,li > a)"
+WBOC-TV,38.50484,-75.64326,http://wboc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71218/tv,":is(h4,h3,li > a)"
+WBTW,34.36794,-79.32227,http://www.wbtw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66407/tv,":is(h4,h3,li > a)"
+WCAX-TV,44.52561,-72.81568,http://www.wcax.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/46728/tv,":is(h4,h3,li > a)"
+WCIA,40.10587,-88.45006,http://illinoishomepage.net/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42124/tv,":is(h4,h3,li > a)"
+WCSC-TV,32.9249,-79.69897,http://www.live5news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71297/tv,":is(h4,h3,li > a)"
+WDBJ,37.19513,-80.15615,http://wdbj7.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71329/tv,":is(h4,h3,li > a)"
+WDTV,39.30064,-80.34342,http://www.wdtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70592/tv,":is(h4,h3,li > a)"
+WEVV-TV,37.8881,-87.54362,http://www.wevv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72041/tv,":is(h4,h3,li > a)"
+WFOR-TV,25.96898,-80.22199,http://miami.cbslocal.com/station/cbs4/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47902/tv,.title-wrapper
+WFRV-TV,44.3336,-87.98232,http://wearegreenbay.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9635/tv,":is(h4,h3,li > a)"
+WFSB,41.7751,-72.8051,http://www.wfsb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53115/tv,":is(h4,h3,li > a)"
+WGCL-TV,33.80733,-84.33937,http://www.cbs46.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72120/tv,":is(h4,h3,li > a)"
+WGFL,29.62997,-82.57317,http://www.mycbs4.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/7727/tv,skip
+WGME-TV,43.92452,-70.49061,http://www.wgme.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25683/tv,skip
+WHBF-TV,41.54698,-90.47652,http://www.OurQuadcities.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/13950/tv,":is(h4,h3,li > a)"
+WHLT,31.40573,-89.237,http://www.whlt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48668/tv,":is(h4,h3,li > a)"
+WHP-TV,40.34537,-76.86886,http://www.cbs21.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72313/tv,":is(div[class*=headline],h4)"
+WIBW-TV,39.00611,-96.04944,http://www.wibw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/63160/tv,":is(h4,h3,li > a)"
+WISC-TV,43.05583,-89.53512,http://channel3000.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65143/tv,":is(h4,h3,li > a)"
+WJAX-TV,30.28132,-81.56987,http://www.actionnewsjax.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35576/tv,":is(h4,h3,li > a)"
+WJMN-TV,46.13468,-86.94876,http://www.upmatters.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/9630/tv,":is(h4,h3,li > a)"
+WJTV,32.2407,-90.40426,http://www.wjtv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/48667/tv,":is(h4,h3,li > a)"
+WKBT-DT,44.0911,-91.33807,http://www.news8000.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74424/tv,":is(h4,h3,li > a)"
+WKMG-TV,28.61,-81.05951,http://www.clickorlando.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/71293/tv,":is(h3,div > a)"
+WKRC-TV,39.11645,-84.50189,http://Local12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11289/tv,skip
+WKRG-TV,30.68908,-87.83027,http://wkrg.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73187/tv,":is(h4,h3,li > a)"
+WKYT-TV,38.0398,-84.40271,http://www.wkyt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24914/tv,":is(h4,h3,li > a)"
+WLFI-TV,40.38892,-86.61278,http://www.wlfi.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73204/tv,":is(h4,h3,li > a)"
+WMBD-TV,40.63504,-89.53871,http://centralillinoisproud.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42121/tv,":is(h4,h3,li > a)"
+WNCT-TV,35.36544,-77.39357,http://www.wnct.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/57838/tv,":is(h4,h3,li > a)"
+WNEM-TV,43.47058,-83.8433,http://www.wnem.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41221/tv,":is(h4,h3,li > a)"
+WPRI-TV,41.87677,-71.282,http://wpri.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/47404/tv,":is(div[class*=headline],h4)"
+WRDW-TV,33.41014,-81.84345,http://www.wrdw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73937/tv,":is(h4,h3,li > a)"
+WROC-TV,43.13562,-77.58361,http://rochesterfirst.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73964/tv,":is(h4,h3,li > a)"
+WSAW-TV,44.92052,-89.69123,http://www.wsaw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/6867/tv,":is(h4,h3,li > a)"
+WSEE-TV,42.0645,-80.00505,http://www.wsee.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49711/tv,":is(h3,div > a)"
+WSPA-TV,35.17011,-82.29067,http://www.wspa.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/66391/tv,":is(h4,h3,li > a)"
+WSVF-CD,38.3929,-78.77002,http://www.whsv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/190915/tv,":is(h4,h3,li > a)"
+WSWG,31.17186,-83.36571,http://www.wswg.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/28155/tv,":is(h4,h3,li > a)"
+WTAJ-TV,40.56701,-78.4414,http://wearecentralpa.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/23341/tv,":is(h4,h3,li > a)"
+WTHI-TV,39.24337,-87.3853,http://www.wthitv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70655/tv,":is(h4,h3,li > a)"
+WTOC-TV,32.05409,-81.35011,http://www.wtoc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/590/tv,":is(h4,h3,li > a)"
+WTSP,27.81967,-82.26056,http://www.wtsp.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/11290/tv,":is(div[class*=headline],h4)"
+WTVF,36.26811,-86.78778,http://www.newschannel5.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/36504/tv,":is(h3,div > a)"
+WTVY,30.91991,-85.7416,http://www.wtvy.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4152/tv,":is(h4,h3,li > a)"
+WVLT-TV,35.99564,-83.9563,http://www.wvlt.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35908/tv,":is(h4,h3,li > a)"
+WWNY-TV,43.95423,-75.72881,http://www.wwnytv.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68851/tv,":is(h4,h3,li > a)"
+WWTV,44.13668,-85.34255,http://www.9and10news.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/26994/tv,":is(h4,h3,li > a)"
+WYOU,41.18286,-75.87353,http://pahomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/17010/tv,":is(h4,h3,li > a)"
+KMIR-TV,33.86668,-116.4339,http://www.NBCPalmSprings.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/16749/tv,.entry-title
+WEWS-TV,41.37394,-81.71763,http://www.news5cleveland.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/59441/tv,":is(h3,div > a)"
+KRBC-TV,32.27735,-99.59786,http://bigcountryhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/306/tv,":is(h4,h3,li > a)"
+WFXR,37.19661,-80.15407,http://www.virginiafirst.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24813/tv,":is(h4,h3,li > a)"
+KWES-TV,31.98817,-102.87849,http://www.newswest9.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42007/tv,":is(h4,h3,li > a)"
+KWAB-TV,32.28206,-101.49318,http://www.newswest9.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/42008/tv,":is(h4,h3,li > a)"
+WTTG,38.95622,-77.08276,http://www.fox5dc.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/22207/tv,":is(h4,h3,li > a)"
+WBRL-CD,30.32631,-91.27678,http://brproud.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24976/tv,":is(h4,h3,li > a)"
+WGGB-TV,42.24176,-72.6487,http://www.wggb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25682/tv,":is(h4,h3,li > a)"
+WXIX-TV,39.122,-84.54772,http://www.fox19.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39738/tv,":is(h4,h3,li > a)"
+WTXL-TV,30.66853,-83.96933,http://www.wtxl.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/41065/tv,":is(h3,div > a)"
+WFXV,43.14535,-75.176,http://cnyhomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/43424/tv,":is(h4,h3,li > a)"
+KSAT-TV,29.26996,-98.2589,http://www.ksat.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53118/tv,":is(h2,h3,h4)"
+WQAD-TV,41.3124,-90.37963,http://www.wqad.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/73319/tv,.entry-title
+WTEN,42.62536,-74.01013,http://www.news10.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74422/tv,":is(h4,h3,li > a)"
+KECI-TV,47.0177,-114.014,http://www.keci.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18084/tv,":is(div[class*=headline],h4)"
+KMCB,43.39383,-124.13464,http://www.kmtr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35183/tv,":is(div[class*=headline],h4)"
+KECI-TV,47.0177,-114.014,http://www.keci.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18084/tv,":is(div[class*=headline],h4)"
+KTCW,43.20578,-123.36791,http://www.kmtr.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35187/tv,skip
+WLBZ,44.73618,-68.67087,http://www.WLBZ2.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/39644/tv,":is(div[class*=headline],h4)"
+KTVZ,44.07762,-121.33142,http://www.ktvz.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55907/tv,":is(h4,h3,li > a)"
+WJFW-TV,45.66746,-89.20818,http://www.wjfw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49699/tv,a[style='color:#0099cc;font-weight:bold;']
+KDLV-TV,43.75916,-98.41259,http://www.kdlt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55375/tv,":is(h4,h3,li > a)"
+KDLT-TV,43.50497,-96.55643,http://www.kdlt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/55379/tv,":is(h4,h3,li > a)"
+KOMU-TV,38.88809,-92.26352,http://www.komu.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65583/tv,":is(h3,div > a)"
+KAMR-TV,35.34255,-101.82296,http://www.myhighplains.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/8523/tv,":is(h4,h3,li > a)"
+KSNK,39.83,-100.70196,http://ksn.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72362/tv,":is(h4,h3,li > a)"
+KTVF,64.87873,-148.05632,http://www.webcenter11.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/49621/tv,":is(h4,h3,li > a)"
+WLTZ,32.45792,-84.88549,http://WLTZ.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/37179/tv,.entry-title
+KSNG,37.7778,-100.86933,http://ksn.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/72361/tv,":is(h4,h3,li > a)"
+WPBN-TV,44.74806,-85.06894,http://www.upnorthlive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21253/tv,":is(div[class*=headline],h4)"
+WTOM-TV,45.65029,-84.34364,http://www.upnorthlive.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21254/tv,":is(div[class*=headline],h4)"
+KNVN,40.25849,-122.09111,http://www.ActionNewsNow.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/33745/tv,":is(h4,h3,li > a)"
+WETM-TV,42.10619,-76.87107,http://www.mytwintiers.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60653/tv,":is(h4,h3,li > a)"
+KFDX-TV,33.88982,-98.55867,http://texomashomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/65370/tv,":is(h4,h3,li > a)"
+KSNF,37.07589,-94.55467,http://fourstateshomepage.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67766/tv,":is(h4,h3,li > a)"
+KSNB-TV,40.75195,-97.45144,http://www.nbcneb.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/21161/tv,":is(h4,h3,li > a)"
+WICU-TV,42.06394,-80.00561,http://www.wicu12.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/24970/tv,":is(h3,div > a)"
+KULR-TV,45.75967,-108.45458,http://www.kulr8.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/35724/tv,":is(h4,h3,li > a)"
+KPVI-DT,42.92014,-112.34653,http://kpvi.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/1270/tv,":is(h3,div > a)"
+KSNT,39.09278,-95.78471,http://www.ksnt.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/67335/tv,":is(h4,h3,li > a)"
+KYMA-DT,33.05282,-114.82857,http://kyma.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/74449/tv,":is(h4,h3,li > a)"
+KTUU-TV,61.42223,-149.87444,http://www.ktuu.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/10173/tv,":is(h4,h3,li > a)"
+KTVM-TV,46.00743,-112.44252,http://www.ktvm.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18066/tv,":is(div[class*=headline],h4)"
+KCFW-TV,48.01328,-114.36624,http://www.kcfw.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/18079/tv,skip
+KIEM-TV,40.73041,-123.95311,http://kiem-tv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/53382/tv,.entry-title
+WVIR-TV,37.98403,-78.48112,http://www.nbc29.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/70309/tv,":is(h4,h3,li > a)"
+KRIS-TV,27.74169,-97.60277,http://www.kristv.com/,https://publicfiles.fcc.gov/api/manager/download/entity/logo/25559/tv,":is(h4,h3,li > a)"
+KCWY-DT,42.74358,-106.30725,http://www.kcwy13.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/68713/tv,":is(h4,h3,li > a)"
+KRNV-DT,39.31551,-119.88593,http://www.mynews4.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/60307/tv,skip
+KNDO,46.5329,-120.5084,http://www.kndo.com,https://publicfiles.fcc.gov/api/manager/download/entity/logo/12395/tv,":is(h4,h3,li > a)"
+WTAP-TV,39.35007,-81.5654,http://www.thenewscenter.tv,https://publicfiles.fcc.gov/api/manager/download/entity/logo/4685/tv,":is(h4,h3,li > a)"

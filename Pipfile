@@ -9,6 +9,7 @@ verify_ssl = true
 requests = "*"
 beautifulsoup4 = "*"
 flask = "*"
+geopandas = "*"
 
 [requires]
 python_version = "3.7"
